@@ -405,16 +405,14 @@ The application offers full responsiveness and light theme interface support, en
 All application views shown use a camouflage pattern background from Vecteezy[1], while photos and videos featured in the portal come from Adobe Stock[2] and Pexels[3] under free license.
 
 **Sources:**
-- [1] Vecteezy.com – Green Stylish Camouflage Military Pattern 51259018 Stock Photo at Vecteezy
+- [1] Vecteezy.com – https://www.vecteezy.com/photo/51259018-green-stylish-camouflage-military-pattern
 - [2] Adobe Stock – https://stock.adobe.com/
 - [3] Pexels – https://www.pexels.com/
 
 ## Contact Information
 
 For more information about this project, please contact:
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn profile URL]
-- GitHub: [Your GitHub profile URL]
+- Email: [calka.szymek@gmail.com]
 
 ---
 
