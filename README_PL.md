@@ -406,17 +406,15 @@ Aplikacja oferuje pełną responsywność oraz obsługę jasnego motywu interfej
 We wszystkich prezentowanych widokach aplikacji wykorzystano tło ze wzorem kamuflażu z Vecteezy[1], a zdjęcia i filmy występujące w portalu pochodzą z Adobe Stock[2] oraz Pexels[3] na bazie darmowej licencji.
 
 **Źródła:**
-- [1] Vecteezy.com – Green Stylish Camouflage Military Pattern 51259018 Stock Photo at Vecteezy
+- [1] Vecteezy.com – https://www.vecteezy.com/photo/51259018-green-stylish-camouflage-military-pattern
 - [2] Adobe Stock – https://stock.adobe.com/
 - [3] Pexels – https://www.pexels.com/
 
 ## Informacje kontaktowe
 
 Aby uzyskać więcej informacji o tym projekcie, proszę o kontakt:
-- Email: [twój-email@przykład.com]
-- LinkedIn: [URL Twojego profilu LinkedIn]
-- GitHub: [URL Twojego profilu GitHub]
-
+- Email: [calka.szymek@gmail.com]
+  
 ---
 
 *Uwaga: Ten projekt został stworzony jako praca inżynierska, dlatego kod źródłowy nie jest udostępniany publicznie. Projekt jest prezentowany jako element portfolio i nie jest dostępny do publicznego użytku ani dystrybucji. Wszystkie materiały wizualne i demonstracje są udostępniane wyłącznie w celu zaprezentowania umiejętności i możliwości programisty.*
