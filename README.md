@@ -140,7 +140,7 @@ The user profile displays profile picture, background image, personal data, post
 
 The system has a post display function with filtering by thematic categories. The platform offers an intuitive post creation form equipped with a text editor with extended formatting capabilities.
 
-https://github.com/user-attachments/assets/48ed74f4-8fee-49a4-8d84-c03485940e00
+**📹 Video demonstration:** `assets/videos/posts-browsing.mp4`
 
 ### Managing Own Posts
 
@@ -291,9 +291,9 @@ The chat system is available from two interface levels: dropdown menu in the nav
 
 The educational module combines interactive 3D models with comprehensive weapon information, offering users exploration possibilities through both model part clicking and disassembly animations. The system also enables knowledge exchange through comments and access to information sources.
 
-https://github.com/user-attachments/assets/9d66ce95-e9b0-4da9-bb4d-040155e7d9db
+**📹 Full page walkthrough:** `assets/videos/gun-educational-page-scrolling.mp4`
 
-https://github.com/user-attachments/assets/3b09ea7c-2338-4226-8669-79534a385dcd
+**📹 3D model interaction demonstration:** `assets/videos/3d-model-animations-and-exploration.mp4`
 
 ## Role-Based Features
 
