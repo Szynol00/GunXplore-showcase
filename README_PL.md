@@ -139,7 +139,7 @@ Profil użytkownika prezentuje zdjęcie profilowe, zdjęcie w tle, dane osobowe,
 System posiada funkcję wyświetlania postów z możliwością filtrowania według kategorii tematycznych. Platforma oferuje intuicyjny formularz dodawania postów, wyposażony w edytor tekstu z rozszerzonymi możliwościami formatowania.
 
 
-https://github.com/user-attachments/assets/48ed74f4-8fee-49a4-8d84-c03485940e00
+**📹 Demonstracja video:** `assets/videos/posts-browsing.mp4`
 
 
 ### Zarządzanie własnymi postami
@@ -291,9 +291,9 @@ System czatu dostępny jest z dwóch poziomów interfejsu: rozwijane menu w pask
 
 Moduł edukacyjny łączy interaktywne modele 3D z kompleksowymi informacjami o broni, oferując użytkownikom możliwość eksploracji zarówno przez kliknięcia w części modelu, jak i animacje rozkładania. System umożliwia także wymianę wiedzy poprzez komentarze i dostęp do źródeł informacji.
 
-https://github.com/user-attachments/assets/9d66ce95-e9b0-4da9-bb4d-040155e7d9db
+**📹 Przegląd strony edukacyjnej:** `assets/videos/gun-educational-page-scrolling.mp4`
 
-https://github.com/user-attachments/assets/3b09ea7c-2338-4226-8669-79534a385dcd
+**📹 Interakcja z modelami 3D:** `assets/videos/3d-model-animations-and-exploration.mp4`
 
 
 ## Funkcje dla poszczególnych ról użytkowników
